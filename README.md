@@ -1,4 +1,2 @@
 # computer-graphics
 course homework
-???
-!!!
